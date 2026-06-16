@@ -2,15 +2,15 @@
 
 ## Overview
 
-A small Streamlit web utility for tagging Sinhala text with XML-like labels. Paste text into the editor, select a word/sentence/phrase, then click a tag button to wrap the selection with the chosen tag.
+A small Streamlit web utility for tagging Sinhala text with labels. Paste text into the editor, select a word/sentence/phrase, then click a tag button to wrap the selection with the chosen tag.
 
 <img width="1223" height="582" alt="Screenshot 2026-06-16 190311" src="https://github.com/user-attachments/assets/58040ef1-650b-4112-ad1b-978d9189d93d" />
 
 ## Key features
 
 - Add `<sns>...<ens>` around a selected span.
-- Add `<eos>` at the end of the document.
-- Add `<psi>` immediately after the current selection.
+- Add `<eos>` at the end of the sentence.
+- Add `<psi>` for poems.
 - Copy the final tagged text to clipboard.
 - Download the final tagged text as a `.txt` file.
 - Clear the editor to start over.
