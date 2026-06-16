@@ -54,8 +54,6 @@ streamlit run app.py
 ## Files
 
 - `app.py` — Streamlit application providing the editor and tagging controls.
-- `Screenshot 2026-06-16 190311.png` — reference screenshot used in this README.
-
 ---
 
 This README was generated/expanded from the provided app screenshot.
