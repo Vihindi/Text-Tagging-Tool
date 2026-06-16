@@ -4,7 +4,7 @@
 
 A small Streamlit web utility for tagging Sinhala text with XML-like labels. Paste text into the editor, select a word/sentence/phrase, then click a tag button to wrap the selection with the chosen tag.
 
-#![App screenshot](Screenshot%202026-06-16%20190311.png)
+<img width="1223" height="582" alt="Screenshot 2026-06-16 190311" src="https://github.com/user-attachments/assets/58040ef1-650b-4112-ad1b-978d9189d93d" />
 
 ## Key features
 
